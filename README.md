@@ -25,7 +25,7 @@ Its presence is subtle, often manifesting through behavioral anomalies rather th
 
 ### 1. Monitoring Outbound Connections
 
-**Objective:** Identify devices communicating with Claude-related domains, especially outside business hours.
+**Objective:** Identify devices communicating with Claude-related domains, which are not authorised administrator devices.
 
 **Query Description:**  
 "Alert me every time Claude AI is run from a device whose MAC address is not on our approved list.."
