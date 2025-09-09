@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We will start by introducing Claude AI, developed by Anthropic whilst many more will follow in its atonomous orchestration footsteps. While notintended to be a malicious tool, its capabilities can be exploited by threat actors to assist in reconnaissance, automate decision-making, and facilitate lateral movement. Claude does not propagate like traditional malware; instead, it is often embedded in scripts, invoked via APIs due to size, or used to interpret system feedback in real time.
+We will start by introducing Claude AI, developed by Anthropic whilst many more will follow in its atonomous orchestration footsteps we will delve into detection strategies for this tool in this article . While not intended to be a malicious tool, its capabilities can be exploited by threat actors to assist in reconnaissance, automate decision-making, and facilitate lateral movement. Claude does not propagate like traditional malware; instead, it is often embedded in scripts, invoked via APIs due to size, or used to interpret system feedback in real time.
 
 This document outlines detection and isolation strategies using pre-existing tools but you will not be able to catch it in the conventional way rather you need to identify behavour and be able to distinguish anomalies.
 
